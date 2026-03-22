@@ -1,4 +1,4 @@
-# 🤖 ULTRON OS
+# 🤖 jarvis-ai
 
 A simple AI assistant web application with a chat interface, built using Node.js for the backend and a basic frontend (HTML, CSS, JS).
 
@@ -29,8 +29,8 @@ A simple AI assistant web application with a chat interface, built using Node.js
 
 ### 1. Clone the repository
 
-git clone https://github.com/0b1t07/ULTRON.git  
-cd ULTRON
+git clone https://github.com/0b1t07/jarvis-ai.git  
+cd jarvis-ai
 
 ---
 
