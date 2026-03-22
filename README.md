@@ -1,4 +1,4 @@
-# 🤖 Jarvis AI
+# 🤖 ULTRON OS
 
 A simple AI assistant web application with a chat interface, built using Node.js for the backend and a basic frontend (HTML, CSS, JS).
 
@@ -60,7 +60,7 @@ Open index.html in your browser.
 
 If your project uses an API key (like OpenAI), create a .env file:
 
-OPENAI_KEY=AIzaSyBQmpghBW-DNMhqfF-blELAc4qxi35BRCU
+OPENAI_KEY=YOUR_API_KEY_HERE
 
 ---
 
